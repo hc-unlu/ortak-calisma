@@ -2,13 +2,8 @@
 
 Katkıda bulunan HiCoders üyeleri
 
-
-
-
 [Mustafa Ünlü](https://github.com/hc-unlu)
-[HiCoders](https://github.com/hicoders)
+[HiCoders](https://github.com/hicodersch)
 [Yunus Emre YILDIZ](https://github.com/josephfox-ch)
-[HiCoders](https://github.com/hicoders)Mustafa Özsamur
-
- , Serkan Sönmez
-
+[Mustafa Özsamur](https://github.com/hicodersch)
+[Serkan Sönmez](https://github.com/hicodersch)
