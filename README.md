@@ -7,3 +7,4 @@ Katkıda bulunan HiCoders üyeleri
 [Yunus Emre YILDIZ](https://github.com/josephfox-ch)
 [Mustafa Özsamur](https://github.com/hicodersch)
 [Serkan Sönmez](https://github.com/hicodersch)
+[Zeynel Sönmez](https://github.com/zynllsnmz)
